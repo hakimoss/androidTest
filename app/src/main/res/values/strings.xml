@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test123</string>
+    <string name="lblTitle">Saisir une valeur entre 1 et 100 :</string>
+    <string name="essai">Essai</string>
+    <string name="enter_how_much_cookies_you_want">Enter How Much Cookies You Want</string>
+    <string name="e_g_8">Entrer un numéro</string>
+    <string name="strMessage">Félicitation, vous avez trouvez en %d coups. Voulez vous recommencer ?</string>
+</resources>
